@@ -1,5 +1,5 @@
 h1 {color:red;text-align: center;  }
-h2 {color: purple};
-h3 {color:aquamarine};
-p {color:bisque; text-align: center};
-body {color:aquamarine};
+h2 {color: purple;text-align: center};
+h3 {color:aquamarine; text-align: center};
+p {color:bisque; text-align: center; font-size: medium};
+body {background-color: aquamarine};
